@@ -125,7 +125,7 @@ cd mk_arcade_joystick_rpi/
 
 sudo nano mk_arcade_joystick_rpi
 ```
-### bottom source gpio number can is change it. ###
+> you can are change bottom source gpio number.
 
 ```
 // Map of the gpios :                     up, down, left, right, start, select, a,  b,  tr, y,  x,  tl
