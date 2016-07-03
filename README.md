@@ -124,8 +124,8 @@ sudo mkdir /usr/src/mk_arcade_joystick_rpi-0.1.6/
 cd mk_arcade_joystick_rpi/
 
 sudo nano mk_arcade_joystick_rpi
-
-### bottom source gpio number can is change it.
+```
+### bottom source gpio number can is change it. ###
 
 ```
 // Map of the gpios :                     up, down, left, right, start, select, a,  b,  tr, y,  x,  tl
@@ -143,6 +143,7 @@ static const int mk_arcade_gpio_maps_tft[] = {21, 13,    26,    19,    5,    6, 
 
 ```
 
+```
 make 
 
 sudo dkms remove -m mk_arcade_joystick_rpi -v 0.1.4 --all
