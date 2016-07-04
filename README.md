@@ -1,7 +1,9 @@
 # RAS-JoyBOX #
-Based on the recalbox team mk_arcade_joystick_rpi : https://github.com/recalbox/mk_arcade_joystick_rpi
+> Ras Joy-BOX Play RetroPie with Based on the recalbox team gpio joystick on the Raspberry-Pi Emulator Merchine :
+* https://retropie.org.uk/
+* https://github.com/recalbox/mk_arcade_joystick_rpi
 
-> How to Make RAS-Joy BOX here : http://rasplay.org
+> How to Make RAS-Joy BOX here : http://www.rasplay.org/?cat=1058
 
 ![RAS-JoyBOX](https://i.imgur.com/eCt6yDG.jpg)
 
