@@ -7,10 +7,10 @@
 > How to Make RAS-Joy BOX here : http://www.rasplay.org/?cat=1058
 
 > RaspberryPi Village RAS Joy-BOX Open-Project Picture
-
+* [2015년 11월 13일–2015년 11월 26일](https://photos.google.com/share/AF1QipPfdxQeBnpMFsmty2p8vLI6KjaJ7pyijFHJx5OlCwA2tBLHWjq3dk653w9pP1R4KQ?hl=ko&key=NU5ld3haVlJOYTNLSlQ4SzVLeWpwdkpVNXZLUjJ3)
 * [2015년 11월 21일–2015년 11월 22일](https://photos.google.com/share/AF1QipNcHMwPwy5QZJLbIfB3i_VbxYQL0BoeGIgafSpTe2L4uJpzr8MBwr2kFO8ZtchJ4w?hl=ko&key=anJJVWY3TXY0clgyUTZtSDBZcVRrd0Uxbi1kaWlB)
 * [2015년 12월 15일–2015년 12월 19일](https://photos.google.com/share/AF1QipPa3wGIVX1eDkI9ersyoNpkGt75jl77zDFH1J_xyfkDb1GVmC-s60Ast3-vJhhlWQ?hl=ko&key=UVdNZlVyeDhpX0MxdlMwR182UzhYZm5tMmgwcWVn)
-* [2015년 11월 13일–2015년 11월 26일](https://photos.google.com/share/AF1QipPfdxQeBnpMFsmty2p8vLI6KjaJ7pyijFHJx5OlCwA2tBLHWjq3dk653w9pP1R4KQ?hl=ko&key=NU5ld3haVlJOYTNLSlQ4SzVLeWpwdkpVNXZLUjJ3
+
 
 
 ![RAS-JoyBOX](https://i.imgur.com/eCt6yDG.jpg)
